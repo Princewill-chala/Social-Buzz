@@ -1,2 +1,9 @@
-# Content-analysis-of-social-buzz
-A project focused on analysing the dataset of a social media company preparing for expansion through an initial public offering (IPO).
+# Social Buzz Content Analysis
+## Table of content
+Project overview
+Data Source
+Problem Statement
+Tools Used
+Skills Demonstrated
+Analysis & Visualizations
+Recommendations
