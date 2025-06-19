@@ -1,9 +1,9 @@
 # Social Buzz Content Analysis
-## Table of content
--Project overview
--Data Source
--Problem Statement
--Tools Used
--Skills Demonstrated
- -Analysis & Visualizations
--Recommendations
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Problem Statement](#problem-statement)
+- [Tools Used](#tools-used)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Analysis & Visualizations](#analysis--visualizations)
+- [Recommendations](#recommendations)
