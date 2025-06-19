@@ -1,3 +1,4 @@
+![Social Buzz](Sbuzz2.png) 
 # Social Buzz Content Analysis
 ## Table of Contents
 - [Project Overview](#project-overview)
